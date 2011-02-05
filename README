@@ -1,0 +1,14 @@
+# clj-digest
+
+digest functions for clojure
+
+## Usage
+
+(md5str "hello")
+(sha1str "world")
+
+## License
+
+Copyright (C) 2011 Masashi Iizuka
+
+Distributed under the Eclipse Public License, the same as Clojure.
